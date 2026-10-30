@@ -36,7 +36,7 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
  ### 📈 Power BI — Dashboard Interaktif
 Visualisasi hasil analisis penjualan showroom mobil
 
-- 📄 [Dokumentasi Lengkap + Hasil Visualisasi](tempel-tautan-PDF-PowerBI)
+- 📄 [Dokumentasi Lengkap + Hasil Visualisasi](https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Dokumentasi%20Praktik%20Power%20BI_%20Ananda%20Fikri%20Satriyo.pdf)
 - 💾 [File Dashboard (.pbix)](tempel-tautan-file-pbix)
 - Fitur: Tren penjualan bulanan, perbandingan kategori produk, kinerja cabang, filter interaktif
 
