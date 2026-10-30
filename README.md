@@ -5,9 +5,9 @@ Tools yang digunakan:  SQL (Google BigQuery) • Microsoft Excel • Python (Goo
 Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren, faktor yang mempengaruhi harga, serta menyusun rekomendasi strategi bisnis.
 
 ## 📊 Data
-- Sumber: Data dummy penjualan showroom mobil
-- Jumlah baris: [isi jumlah]
-- Periode: [isi periode]
+- Sumber: Data penjualan 10 cabang showroom mobil
+- Jumlah baris: 1.000
+- Periode: 2025
 
 ## 📁 Bagian Proyek
 
@@ -18,7 +18,7 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
 ### 📝 SQL — Google BigQuery
 > Menjawab pertanyaan bisnis
 - [Lihat kode lengkap → kueri penjualan-bigquery.sql]
-- 📄 [Dokumentasi Lengkap output QUERY(PDF)][(https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Latihan%20soal%20SQL%20WITH%20GOOGLE%20BIGQUERY_Ananda%20Fikri%20Satriyo%20H.pdf)]
+- 📄 [Dokumentasi Lengkap - Penjelasan dan hasil output Query (PDF)][(https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Latihan%20soal%20SQL%20WITH%20GOOGLE%20BIGQUERY_Ananda%20Fikri%20Satriyo%20H.pdf)]
 - Kueri meliputi:
   - Penjualan & pendapatan per produk 
   - Tren penjualan bulanan & tahunan
@@ -27,7 +27,7 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
 
 ### 🐍 Python — Google Colab
 > Pembersihan data & analisis eksplorasi
-- [Buka langsung di Colab → nanti diisi]
+- [Buka langsung di Colab → https://colab.research.google.com/drive/1JDLm_JgRrjH_60TlSb4XljEI7sqrhHqY?usp=sharing]
 - Yang dilakukan:
   - Menangani nilai kosong & data duplikat
   - Analisis hubungan harga, tahun, jarak tempuh
