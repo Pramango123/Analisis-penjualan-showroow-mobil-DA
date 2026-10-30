@@ -6,7 +6,7 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
 
 ## 📊 Data
 - Sumber: Data penjualan 10 cabang showroom mobil
-- Jumlah baris: 10.000
+- Jumlah baris: 2.250 data
 - Periode: 2025
 
 ## 📁 Bagian Proyek
