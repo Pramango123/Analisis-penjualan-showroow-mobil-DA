@@ -6,7 +6,7 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
 
 ## 📊 Data
 - Sumber: Data penjualan 10 cabang showroom mobil
-- Jumlah baris: 1.000
+- Jumlah baris: 10.000
 - Periode: 2025
 
 ## 📁 Bagian Proyek
@@ -33,20 +33,30 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
   - Analisis hubungan harga, tahun, jarak tempuh
   - Pola penjualan per kategori & merek
 
-### 📊 Power BI — Dashboard Interaktif
-> Visualisasi hasil analisis
-- [Lihat Dashboard → nanti diisi]
-- Fitur: tren waktu, perbandingan merek, peta wilayah, filter interaktif
+ ### 📈 Power BI — Dashboard Interaktif
+Visualisasi hasil analisis penjualan showroom mobil
 
-## 💡 Temuan Utama
-1. [isi temuan 1]
-2. [isi temuan 2]
-3. [isi temuan 3]
+- 📄 [Dokumentasi Lengkap + Hasil Visualisasi](tempel-tautan-PDF-PowerBI)
+- 💾 [File Dashboard (.pbix)](tempel-tautan-file-pbix)
+- Fitur: Tren penjualan bulanan, perbandingan kategori produk, kinerja cabang, filter interaktif
+
+📊 Ringkasan Hasil:
+- Total Penjualan: Rp 3,09 Triliun | Total Transaksi: 10.000
+- Tingkat Penyelesaian: 89,66%
+- Produk Terlaris: Kategori SUV → Rp 1,68 Triliun
+- Cabang Terbaik: Malang, Jakarta, Padang
+- Bulan Tertinggi: Januari
+- Metode Pembayaran Terbanyak: Kredit
+
+💡 Temuan Utama
+1. Kategori SUV mendominasi penjualan → Rp 1,68 Triliun (lebih tinggi dibanding MPV)
+2. Cabang Malang, Jakarta, dan Padang mencatat penjualan tertinggi
+3. Penjualan naik turun sepanjang tahun, puncak terjadi pada bulan Januari
 
 ## ✅ Rekomendasi Bisnis
-- [isi saran 1]
-- [isi saran 2]
-- [isi saran 3]
+- Pertahankan stok & variasi produk SUV karena paling diminati konsumen
+- Pelajari strategi marketing cabang Jakarta & Padang serta terapkan ke cabang lain yang masih di bawah rata-rata
+- Selidiki penyebab transaksi yang dibatalkan/dikembalikan (sekitar 10%) → kurangi untuk meningkatkan pendapatan
 
 ---
-*Portofolio — Siap untuk peluang Data Analyst*
+*Portofolio Data Analyst- Ananda Fikri Satriyo*
