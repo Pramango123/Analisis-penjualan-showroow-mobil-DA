@@ -18,8 +18,9 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
 ### 📝 SQL — Google BigQuery
 > Menjawab pertanyaan bisnis
 - [Lihat kode lengkap → kueri penjualan-bigquery.sql]
+- 📄 [Dokumentasi Lengkap output QUERY(PDF)][(https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Latihan%20soal%20SQL%20WITH%20GOOGLE%20BIGQUERY_Ananda%20Fikri%20Satriyo%20H.pdf)]
 - Kueri meliputi:
-  - Penjualan & pendapatan per produk dan model
+  - Penjualan & pendapatan per produk 
   - Tren penjualan bulanan & tahunan
   - Kinerja per cabang/kota
   - Analisis harga rata-rata per kategori
