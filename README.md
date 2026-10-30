@@ -33,12 +33,11 @@ Menganalisis data penjualan mobil showroom untuk menemukan pola penjualan, tren,
   - Analisis hubungan harga, tahun, jarak tempuh
   - Pola penjualan per kategori & merek
 
- ### 📈 Power BI — Dashboard Interaktif
+## 📈 Power BI — Dashboard Interaktif
 Visualisasi hasil analisis penjualan showroom mobil
 
-- 📄 [Dokumentasi Lengkap + Hasil Visualisasi](https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Dokumentasi%20Praktik%20Power%20BI_%20Ananda%20Fikri%20Satriyo.pdf)
-- 💾 [File Dashboard (.pbix)](https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Proyek%20Automatic%20Dashboard%20Ananda%20Fikri.pbix)
-- Fitur: Tren penjualan bulanan, perbandingan kategori produk, kinerja cabang, filter interaktif
+- 📄 [Dokumentasi Lengkap + Hasil Visualisasi(https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Dokumentasi%20Praktik%20Power%20BI_%20Ananda%20Fikri%20Satriyo.pdf)]
+- 💾 [File Dashboard (.pbix)(https://github.com/Pramango123/Analisis-penjualan-showroow-mobil-DA/blob/main/Proyek%20Automatic%20Dashboard%20Ananda%20Fikri.pbix)]
 
 📊 Ringkasan Hasil:
 - Total Penjualan: Rp 3,09 Triliun | Total Transaksi: 10.000
@@ -48,15 +47,14 @@ Visualisasi hasil analisis penjualan showroom mobil
 - Bulan Tertinggi: Januari
 - Metode Pembayaran Terbanyak: Kredit
 
-💡 Temuan Utama
-1. Kategori SUV mendominasi penjualan → Rp 1,68 Triliun (lebih tinggi dibanding MPV)
-2. Cabang Malang, Jakarta, dan Padang mencatat penjualan tertinggi
-3. Penjualan naik turun sepanjang tahun, puncak terjadi pada bulan Januari
+💡 Temuan Utama:
+1. Kategori SUV mendominasi penjualan
+2. Cabang Malang, Jakarta, Padang mencatat penjualan tertinggi
+3. Puncak penjualan terjadi di bulan Januari
 
-## ✅ Rekomendasi Bisnis
-- Pertahankan stok & variasi produk SUV karena paling diminati konsumen
-- Pelajari strategi marketing cabang Jakarta & Padang serta terapkan ke cabang lain yang masih di bawah rata-rata
-- Selidiki penyebab transaksi yang dibatalkan/dikembalikan (sekitar 10%) → kurangi untuk meningkatkan pendapatan
-
+✅ Rekomendasi Bisnis:
+- Pertahankan stok & variasi produk SUV
+- Terapkan strategi cabang Jakarta & Padang ke cabang lain
+- Kurangi tingkat pembatalan transaksi
 ---
 *Portofolio Data Analyst- Ananda Fikri Satriyo*
